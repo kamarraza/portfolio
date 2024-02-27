@@ -284,7 +284,7 @@ nav ul{
 
 
 .page4{
-    background:url(./assets/asset\ 19.jpeg);
+    background:url(asset 19.jpeg);
     width: 100%;
     background-size: cover;
     /* object-fit: cover; */
@@ -344,7 +344,7 @@ nav ul{
 
 
 .page5{
-    background: url("assets/asset\ 20.jpeg");
+    background: url("asset 20.jpeg");
     height: 60vh;
     background-size: cover;
 }
